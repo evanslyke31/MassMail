@@ -1,0 +1,10 @@
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\bin\Debug\MassSMS.exe.config
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\bin\Debug\MassSMS.exe
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\bin\Debug\MassSMS.pdb
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\obj\Debug\MassSMS.csprojAssemblyReference.cache
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\obj\Debug\MassSMS.Properties.Resources.resources
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\obj\Debug\MassSMS.csproj.GenerateResource.cache
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\obj\Debug\MassSMS.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\obj\Debug\MassSMS.exe
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\obj\Debug\MassSMS.pdb
+C:\Users\Erik\Documents\Projects\MassSMS\MassSMS\obj\Debug\MassSMS.Form1.resources
